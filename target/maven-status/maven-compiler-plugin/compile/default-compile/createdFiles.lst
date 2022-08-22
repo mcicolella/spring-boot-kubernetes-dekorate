@@ -1,0 +1,4 @@
+net/emmecilab/microservicedemo/MicroserviceDemoApplication.class
+META-INF/dekorate/kubernetes.yml
+net/emmecilab/microservicedemo/controllers/HelloController.class
+META-INF/dekorate/kubernetes.json
